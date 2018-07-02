@@ -4,5 +4,5 @@
 
 ## 项目实现:
 
-* [actframework](/how-to-do-it-in-act/hello-world)
+* [actframework](//gitee.com/how-to-do-it-in-act/hello-world)
 
