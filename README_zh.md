@@ -5,4 +5,5 @@
 ## 项目实现:
 
 * [actframework](//gitee.com/how-to-do-it-in-act/hello-world)
+* [jfinal](//gitee.com/how-to-do-it-in-jfinal/hello-world)
 
