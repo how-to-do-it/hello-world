@@ -9,4 +9,6 @@
 * [nutz](//gitee.com/how-to-do-it-in-nutz/hello-world)
 * [spring](//gitee.com/how-to-do-it-in-spring/hello-world)
 * [play](//gitee.com/how-to-do-it-in-play/HelloWorld)
+* [redkale](//gitee.com/how-to-do-it-in-redkale/hello-world)
+
 
